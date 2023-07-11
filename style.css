@@ -1,0 +1,107 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+    background-color: #E554731A;
+    display: flex; 
+}
+.banner-title {
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+margin: 30px;
+}
+.banner li {
+    list-style: none;
+    
+}
+.btn-primary {
+    padding: 20px 43px;
+font-size: larger;
+gap: 10px;
+border-radius: 8px;
+border: none;
+background: #E55473;
+color: #FFF;
+}
+
+/* body style  */
+.first-section {
+    margin-top: 100px;
+}
+
+.featured-flower {
+    display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+    padding: 30px;
+    list-style: none;
+}
+.creative-section {
+    margin-left: 30px;
+}
+#name , #Address {
+    margin: 30px;
+    padding: 30px;
+}
+.choose-your-flower {
+    font-size: x-large;
+}
+.get-info {
+    font-size: x-large;
+    display: flex;
+    padding-left: 150px;
+}
+.fourth-section {
+    background-color:#E554730D ;
+display: flex;
+padding: 150px;
+}
+.fourth-section li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.off-colour {
+    color: #E55473;
+}
+
+.four-flower {
+    display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+margin-left: 50px;
+    padding: 30px;
+    list-style: none;
+    margin: 25px;
+}
+.subscribe {
+    display: flex;
+    margin-left: 650px; 
+}
+#latest-deal-section {
+    background-image: url('flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    margin: 50px;
+}
+.last {
+    background-color: black; 
+    color: #FFFFFFE5;
+    padding: 100px 300px;
+}
+.last .light-black {
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
